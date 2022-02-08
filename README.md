@@ -1,1 +1,1 @@
-# Arquitos-4
+# Plantilla del proyecto 26
